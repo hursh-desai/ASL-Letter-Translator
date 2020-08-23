@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+main{
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+}
+video {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+.title {
+    text-align: center;
+    font-size: 4em;
+    font-weight: lighter;
+    margin: 0px;
+    
+}
+#asl_letters
