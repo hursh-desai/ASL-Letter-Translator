@@ -1,5 +1,5 @@
 # ASL Letter Translator
-Link to Web App:   
+Link to Web App: https://asl-letter-translator.herokuapp.com/   
 
 Built a convolutional neural network to classify images of letters from American Sign Language:   
 
